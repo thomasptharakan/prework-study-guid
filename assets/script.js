@@ -21,7 +21,8 @@ function listTopics() {
       console.log('Please try again!');
     }
   }
-
-  listTopics();
-  selectTopic();
+console.log("Here are the topics we learnt through pre-work");
+listTopics();
+console.log("Which topic should I learn first");
+selectTopic();
 
